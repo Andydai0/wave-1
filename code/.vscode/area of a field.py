@@ -1,4 +1,6 @@
+print('length in feet')
 length = float(input())
+print('width in feet')
 width = float(input())
 
 area = length * width
